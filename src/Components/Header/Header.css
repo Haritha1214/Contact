@@ -1,0 +1,20 @@
+.main_nav{
+   margin:0px;
+   padding:0px;
+   background-color:aquamarine;
+   list-style: none;
+   float:right;
+   height:70px;
+   width:100%;
+}
+.main_nav li{
+    display:inline-block;
+    margin-left: 70px;
+    padding:20px;
+    
+}
+.main_nav li a {
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 38px;
+} 
